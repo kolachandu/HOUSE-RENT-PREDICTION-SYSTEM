@@ -1,0 +1,11 @@
+prop_id,bhk,area_sqft,city_zone,furnishing,floor_no,monthly_rent
+PROP01,2,950,Tech Corridor,Semi-Furnished,3,24000
+PROP02,1,550,Downtown,Furnished,7,28000
+PROP03,3,1450,Suburb,Unfurnished,2,22000
+PROP04,2,1100,Downtown,Furnished,12,38000
+PROP05,1,450,Rural,Unfurnished,1,8500
+PROP06,3,1600,Tech Corridor,Furnished,5,42000
+PROP07,2,850,Suburb,Semi-Furnished,4,18500
+PROP08,4,2200,Downtown,Furnished,15,68000
+PROP09,2,1000,Tech Corridor,Unfurnished,2,21000
+PROP10,3,1350,Suburb,Furnished,6,31000
